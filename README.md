@@ -7,7 +7,7 @@ A simple sentiment analysis tool built with customtkinter and vaderSentiment.
 * Switch between light and dark theme
 ## Getting Started
 
-Clone the repository: git clone https://github.com/your-username/sentiment-detector.git
+Clone the repository: git clone https://github.com/OracleMatrix/Sentiment_Detector_GUI.git
 Install required libraries: pip install customtkinter vaderSentiment
 Run the application: python main.py
 ## Usage
